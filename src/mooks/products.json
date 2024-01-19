@@ -1,0 +1,46 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"title": "Camiseta JavaScript",
+			"category": "programacion",
+			"price": 19.99,
+			"image": "https://ih1.redbubble.net/image.332030828.5683/ssrco,classic_tee,mens,101010:01c5ca27c6,front_alt,square_product,600x600.jpg"
+		},
+		{
+			"id": 2,
+			"title": "Camiseta Linux",
+			"category": "sistema operativo",
+			"price": 29.99,
+			"image": "https://ih1.redbubble.net/image.1081150482.9976/ssrco,slim_fit_t_shirt,womens,charcoal_heather,front,square_product,600x600.u3.jpg"
+		},
+		{
+			"id": 3,
+			"title": "Camiseta Rust",
+			"category": "programacion",
+			"price": 49.99,
+			"image": "https://ih1.redbubble.net/image.3695669226.0202/ssrco,classic_tee,womens,101010:01c5ca27c6,front_alt,square_product,600x600.jpg"
+		},
+		{
+			"id": 4,
+			"title": "Camiseta Legacy Code",
+			"category": "otros",
+			"price": 39.99,
+			"image": "https://ih1.redbubble.net/image.272469444.5911/ssrco,classic_tee,womens,101010:01c5ca27c6,front_alt,square_product,600x600.u9.jpg"
+		},
+		{
+			"id": 5,
+			"title": "Camiseta Database",
+			"category": "database",
+			"price": 34.99,
+			"image": "https://ih1.redbubble.net/image.830561167.2848/ssrco,classic_tee,mens,101010:01c5ca27c6,front_alt,square_product,600x600.u1.jpg"
+		},
+		{
+			"id": 6,
+			"title": "Camiseta React",
+			"category": "programacion",
+			"price": 24.99,
+			"image": "https://ih1.redbubble.net/image.934233026.2425/ssrco,classic_tee,womens,101010:01c5ca27c6,front_alt,square_product,600x600.jpg"
+		}
+	]
+}
